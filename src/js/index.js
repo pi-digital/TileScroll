@@ -1,5 +1,5 @@
 import { preloadImages, preloadFonts } from './utils';
-import LocomotiveScroll from 'locomotive-scroll';
+import LocomotiveScroll from 'https://locomotivemtl.github.io/locomotive-scroll';
 
 const backtopEl = document.querySelector('.backtop');
 const headerEl = document.querySelector('#header');
