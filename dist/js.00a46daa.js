@@ -619,7 +619,7 @@ return ImagesLoaded;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.preloadFonts = exports.preloadImages = void 0;
+exports.preloadImages = exports.preloadFonts = void 0;
 
 var imagesLoaded = require('imagesloaded'); // Preload images
 
@@ -3285,7 +3285,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56425" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "53175" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

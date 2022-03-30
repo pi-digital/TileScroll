@@ -24,5 +24,6 @@
     "imagesloaded": "^4.1.4",
     "locomotive-scroll": "^3.6.1",
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "devDependencies": {}
 }
