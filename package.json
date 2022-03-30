@@ -1,7 +1,7 @@
 {
-  "name": "TileScroll",
+  "name": "tilescroll",
   "version": "1.0.0",
-  "description": "",
+  "description": "Scroll animations for image grids using [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/).",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html --open",
@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
-  "homepage": "[HOMEPAGE]",
+  "homepage": "http://[HOMEPAGE]",
   "bugs": {
     "url": "https://github.com/codrops/[NAME]/issues"
   },
