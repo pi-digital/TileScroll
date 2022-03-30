@@ -20,7 +20,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	counter-reset: contentSection;
-	font-family: neuzeit-grotesk, sans-serif;
+	font-family: Rawline;
 }
 
 /* Page Loader */
@@ -175,8 +175,7 @@ main {
 .content__breakout {
 	margin: 0 -3rem;
 	white-space: nowrap;
-	text-transform: uppercase;
-	font-family: span, serif;
+	font-family: Rawline;
 	font-weight: 200;
 	font-style: italic;
 	color: #211f1b;
